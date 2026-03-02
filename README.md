@@ -34,6 +34,8 @@
 - Postman, SoapUI, Swagger
 - Android studio, xcode
 
+### Дополнительные навыки
+- [Основы работы с командной строкой (bash)](https://disk.yandex.ru/d/Ukt9WZ-Tm37LzQ)
 
 ### 📁 [Стажировка](https://disk.yandex.ru/d/SME4hxV94cDK9Q)
 - Описание: Функциональное и UI тестирования
