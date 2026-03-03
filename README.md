@@ -86,6 +86,11 @@
 - [Исходный код](https://github.com/angelin919/portfolioPageQA)
 
 
+### 🌐Pet-проекты:
+
+[📁 Учебный проект: React-приложение (ASTON)](https://github.com/angelin919/postReactPj/tree/master/post-app)
+
+
 
 
 <!--
