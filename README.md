@@ -62,34 +62,22 @@
 - [SoapUI](https://disk.yandex.ru/i/1JGL5labSbKu1Q)
 
 
-  
-### 🌐 [Веб-портфолио QA Engineer](https://portfolio-page-qa.vercel.app/AngelinaIgunova)
-**Описание:** Интерактивное одностраничное портфолио для демонстрации навыков тестирования и проектов.
+### 🌐Pet-проекты frontend:
 
-**Технологический стек:**
-- **Frontend:** React + TypeScript
-- **Маршрутизация:** React Router DOM
-- **Сборка:** Vite
-- **Хостинг:** Vercel
-- **Контроль версий:** Git + GitHub
+**Веб-портфолио QA Engineer**
+- [🔗Демо](https://portfolio-page-qa.vercel.app/AngelinaIgunova) [🔗Исходный код](https://github.com/angelin919/portfolioPageQA)
 
-**Особенности реализации:**
-- Типизация компонентов и пропсов на TypeScript
+**📁 Учебный проект: React-приложение (ASTON)**
+- [🔗исходный код](https://github.com/angelin919/postReactPj/tree/master/post-app)
 
-**План улучшений (Roadmap):**
-🔄 **Этап 1:** Адаптация под мобильные устройства 
-🔄 **Этап 2:** Улучшение UX/UI (hover-эффекты, анимации)  
-🔄 **Этап 4:** Оптимизация производительности (lazy loading)  
+**🎬 Кинопоиск Lite (Next.js, TypeScript)**
+- [🔗 демо](https://video-pj.vercel.app) [🔗 исходный код](https://github.com/angelin919/videoPj)
 
-**Ссылки:**
-- [Демо](https://portfolio-page-qa.vercel.app/AngelinaIgunova)
-- [Исходный код](https://github.com/angelin919/portfolioPageQA)
+**🍽️ Бронирование столиков (Next.js, TypeScript)**
+- [🔗 демо](https://dinepj.vercel.app) [🔗 исходный код](https://github.com/angelin919/dinepj)
 
-
-### 🌐Pet-проекты:
-
-[📁 Учебный проект: React-приложение (ASTON)](https://github.com/angelin919/postReactPj/tree/master/post-app)
-
+**🧁 Магазин десертов (Next.js, TypeScript)**
+- [🔗 демо](https://my-food-pj.vercel.app) [🔗 исходный код](https://github.com/angelin919/my-food-pj)
 
 
 
