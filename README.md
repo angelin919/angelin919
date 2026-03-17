@@ -55,6 +55,12 @@
 [📱Todo App](projects/MobileTesting/TodoApp/README.md)
 - 📊 Функциональное тестирование, чек-лист
 
+[💳AppPay – платёжное приложение (Android)](/projects/MobileTesting/AppPay/README.md)  
+    -  Тестирование функционала: добавление/удаление/переименование карт, оплата, смена темы  
+    -  🏆 Вошла в топ‑5 тестировщиков по количеству подтверждённых дефектов 
+    
+   -  [🏆Сертификат](https://disk.yandex.ru/i/6eEF5jclqCVqBA)
+
 ### 📁 Нагрузочное тестирование
 [Читай-город: Ссылка на репозиторий с JMeter-тестом](projects/chitai-gorod-test/README.md)
 
