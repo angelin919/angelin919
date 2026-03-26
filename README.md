@@ -20,9 +20,9 @@
 - 🧪 **2026** — Stepik  
   *Тестирование ПО с нуля. Теория + практика. Уровень PRO* >> [Сертификат о прохождении курса здесь](https://disk.yandex.ru/i/UezIfkdxBnm6Pw)
 
+- 🧪 **2026** — Stepik  
+  *Тестирование ПО: Нагрузочное тестирование с помощью Jmeter* >> [Сертификат о прохождении курса здесь](https://disk.yandex.ru/i/0DPI3JG5YhNRMw)
 - 🧪 **2026** — React разработчик от ASTON >> [Сертификат о прохождении курса здесь](https://disk.yandex.ru/i/NuoVa8XNRbkcBA)  
-
-
 
 
 ## Навыки
@@ -31,6 +31,10 @@
 - Регрессионное, smoke-тестирование
 - Нагрузочное тестирование (JMeter) — базовый уровень
 
+### Тест-дизайн
+- Классы эквивалентности, граничные значения
+- Попарное тестирование (pairwise)
+- Таблицы решений, тестирование переходов состояний
 
 ### Инструменты
 - Jira, Qase
@@ -39,41 +43,38 @@
 - Postman, SoapUI, Swagger
 - Android studio, xcode
 - JMeter
+- [Mongodb](https://disk.yandex.ru/d/yQzYgAquu-Ry4A)
+- [SoapUI](https://disk.yandex.ru/i/1JGL5labSbKu1Q)
+- [Charles Proxy](https://disk.yandex.ru/d/98EKefCsXMjzmQ)
+
 
 ### Дополнительные навыки
 - [Основы работы с командной строкой (bash)](https://disk.yandex.ru/d/Ukt9WZ-Tm37LzQ)
 
-### 📁 [Стажировка](https://disk.yandex.ru/d/SME4hxV94cDK9Q)
+## Проекты 
+### 📁 [Стажировка](projects/internship/README.md)
 - Описание: Функциональное и UI тестирования
-- Написала 50+ тест-кейсов для 11 различных интернет-магазинов в exel - таблице
-- Выявидла и оформила Bug report
- 
-### 📁 Проекты
-[🔗 Перейти к проекту DemoWebShop](projects/DemoWebShop/README.md)
-- 📊 Чек-листы, тест-кейсы, баг-репорты, Postman коллекция
+- Написала 100+ тест-кейсов для 11 различных интернет-магазинов в exel - таблице
+- Выявила и оформила Bug report 
 
 ### 📁 Мобильное тестирование — примеры проектов
 [📱Todo App](projects/MobileTesting/TodoApp/README.md)
 - 📊 Функциональное тестирование, чек-лист
 
-
-[💳 AppPay – платёжное приложение (Android)](/projects/MobileTesting/AppPay/README.md)  
+[💳 AppPay – платёжное приложение (Android)](projects/MobileTesting/AppPay/README.md)  
  - Тестирование функционала: добавление/удаление/переименование карт, оплата, смена темы
  - 🏆 Вошла в топ‑5 тестировщиков по количеству подтверждённых дефектов
  - [🏆Сертификат](https://disk.yandex.ru/i/6eEF5jclqCVqBA)
-
 
 ### 📁 Нагрузочное тестирование
 [Читай-город: Ссылка на репозиторий с JMeter-тестом](projects/chitai-gorod-test/README.md)
 
  
-### 🛠️ Использованные инструменты
-- [Charles Proxy](https://disk.yandex.ru/d/98EKefCsXMjzmQ)
-- [Mongodb](https://disk.yandex.ru/d/yQzYgAquu-Ry4A)
-- [SoapUI](https://disk.yandex.ru/i/1JGL5labSbKu1Q)
+### 📁[Учебный проект DemoWebShop](projects/DemoWebShop/README.md)
+- 📊 Чек-листы, тест-кейсы, баг-репорты, Postman коллекция
 
-
-### 🌐Pet-проекты frontend:
+  
+## 🌐Pet-проекты frontend:
 
 **Веб-портфолио QA Engineer**
 - [🔗Демо](https://portfolio-page-qa.vercel.app/AngelinaIgunova) [🔗Исходный код](https://github.com/angelin919/portfolioPageQA)
