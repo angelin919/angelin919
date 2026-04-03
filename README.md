@@ -24,7 +24,12 @@
   *Тестирование ПО: Нагрузочное тестирование с помощью Jmeter* >> [Сертификат о прохождении курса здесь](https://disk.yandex.ru/i/0DPI3JG5YhNRMw)
 - 🧪 **2026** — Stepik  
   *Тестирование GraphQL в Postman. Легенды и мифы Древнего Египта* >> [Сертификат о прохождении курса здесь](https://disk.yandex.ru/i/7PDtkUTcj1-NBQ)
-- 🧪 **2026** — React разработчик от ASTON >> [Сертификат о прохождении курса здесь](https://disk.yandex.ru/i/NuoVa8XNRbkcBA)  
+- 🧪 **2026** — React разработчик от ASTON >> [Сертификат о прохождении курса здесь](https://disk.yandex.ru/i/NuoVa8XNRbkcBA)
+
+- 🧪 **2026 — ...** Автотесты на Playwright
+
+Сейчас изучаю автоматизацию тестирования с помощью Playwright.  
+Проект, над которым работаю: [playwright-js](https://github.com/angelin919/playwright-automation-learning-js)
 
 
 ## Навыки
